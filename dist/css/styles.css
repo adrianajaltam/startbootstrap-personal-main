@@ -11732,22 +11732,7 @@ html {
     left: -2vw;
   }
 
-  footer ul {
-    padding: 0;
 }
 
-footer li {
-    list-style-type: none; /* Removes bullet points from list items */
-}
 
-footer a {
-    color: #017cff; /* Adjust the color to match your theme */
-    transition: color 0.3s ease; /* Smooth transition for hover effect */
-}
-
-footer a:hover {
-    color: #0056b3; /* Darker shade of blue on hover */
-}
-
-}
 
